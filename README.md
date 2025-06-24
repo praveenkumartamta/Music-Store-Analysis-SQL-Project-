@@ -91,5 +91,16 @@ Finds the highest spending customer in each country using `ROW_NUMBER()` window 
 - Queries written in pure SQL
 
 ---
+ ## Insights
+---
+* senior most employee based on job title - Madan Mohan Senior General Manager
+* Most invoices countries - USA and CANADA
+* Top 3 values of total invoice - 23.759999999999998, 19.8 and 19.8
+* One city that has the highest sum of invoice totals - city = "Prague"	, invoise_total = 273.24000000000007
+* The customer who has spent the most money - Name = R Madhav , Total spent = 144.54000000000002
+* Track count of the 10 rock bands - 
+--Name = "Led Zeppelin", "U2","Deep Purple","Iron Maiden","Pearl Jam","Van Halen","Queen","The Rolling Stones","Creedence Clearwater Revival","Kiss"
+--Number of songs = 114,112,92,81,54,52,45,41,40,35
+* How much money has the highest customer spent on the artist - Customer name = Hugh O'Reilly  , Amount_spent = 27.719999999999985                                      "
 
 
